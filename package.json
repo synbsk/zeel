@@ -1,5 +1,5 @@
 {
-  "name": "wexond",
+  "name": "zeel",
   "version": "6.0.0-nightly.2",
   "sideEffects": false,
   "description": "Extensible, fast and innovative web browser with material UI.",
@@ -11,15 +11,15 @@
     "mobx",
     "styled-components"
   ],
-  "homepage": "https://github.com/wexond/wexond#readme",
+  "homepage": "https://github.com/synbsk/zeel#readme",
   "main": "build/main.bundle.js",
   "author": "Eryk Rakowski <sentialx@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wexond/wexond.git"
+    "url": "git+https://github.com/synbsk/zeel.git"
   },
   "bugs": {
-    "url": "https://github.com/wexond/wexond/issues"
+    "url": "https://github.com/synbsk/zeel/issues"
   },
   "scripts": {
     "dev-renderer": "cross-env DEV=1 webpack serve --config webpack.config.renderer.js",
@@ -55,8 +55,8 @@
     "@types/styled-components": "5.1.10",
     "@typescript-eslint/eslint-plugin": "^4.28.0",
     "@typescript-eslint/parser": "^4.28.0",
-    "@wexond/rpc-core": "^1.0.3",
-    "@wexond/rpc-electron": "^1.0.3",
+    "@zeel/rpc-core": "^1.0.3",
+    "@zeel/rpc-electron": "^1.0.3",
     "animejs": "^3.2.1",
     "awesome-node-loader": "^1.1.1",
     "babel-loader": "^8.2.2",
