@@ -76,6 +76,7 @@
   "dependencies": {
     "dexie": "^3.2.2",
     "feather-icons": "^4.28.0",
+    "plist": ">=3.0.5",
     "publicsuffixlist": "^0.3.0",
     "update-electron-app": "^2.0.1"
   },
@@ -83,6 +84,7 @@
     "electron": "^6.1.12",
     "electron-builder": "^5.5.0",
     "eslint": "^8.20.0",
-    "nodemon": "^2.0.19"
+    "nodemon": "^2.0.19",
+    "plist": ">=3.0.5"
   }
 }
