@@ -74,9 +74,11 @@
     }
   },
   "dependencies": {
-    "lodash": "^4.17.21",
     "dexie": "^3.2.2",
     "feather-icons": "^4.29.0",
+    "got": "^12.1.0",
+    "lodash": "^4.17.21",
+    "minimatch": "^5.1.0",
     "plist": "^3.0.6",
     "update-electron-app": "^2.0.1"
   },
@@ -84,6 +86,6 @@
     "electron": "^15.5.5",
     "electron-builder": "^23.1.0",
     "eslint": "^8.20.0",
-    "nodemon": "^1.4.1"
+    "nodemon": "^2.0.19"
   }
 }
