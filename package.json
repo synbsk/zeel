@@ -76,7 +76,7 @@
   "dependencies": {
     "dexie": "^3.2.2",
     "feather-icons": "^4.29.0",
-    "got": "^12.1.0",
+    "got": ">=11.8.5",
     "lodash": "^4.17.21",
     "minimatch": "^5.1.0",
     "plist": "^3.0.6",
